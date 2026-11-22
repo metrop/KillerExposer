@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Russian">
+  <KillerExposer.KilledBy> [Убит: </KillerExposer.KilledBy>
+
+  <!-- Mod made with love by MeToilet -->
+  <!-- EnableKillerExposer -->
+  <KillerExposer.EnableKillerExposer.DisplayName>Включить Killer Exposer</KillerExposer.EnableKillerExposer.DisplayName>
+  <KillerExposer.EnableKillerExposer.DisplayCategory>Killer Exposer</KillerExposer.EnableKillerExposer.DisplayCategory>
+  <KillerExposer.EnableKillerExposer.Tooltip>Включить Killer Exposer.</KillerExposer.EnableKillerExposer.Tooltip>
+</infotexts>
